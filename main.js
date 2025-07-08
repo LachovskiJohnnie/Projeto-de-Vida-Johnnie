@@ -52,7 +52,6 @@ function atualizaCronometro() {
     }
 }
 
-}
 
 function comecaCronometro(){
     atualizaCronometro();
